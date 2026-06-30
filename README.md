@@ -20,6 +20,3 @@ Dabbling in YOLO, DETR, RF-DETR, and ResNets to build models that actually look 
 </p>
 
 ---
-
-### 📫 Let's connect
-Open to connecting with fellow ML/CV engineers — feel free to reach out!
