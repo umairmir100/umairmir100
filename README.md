@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Umair 👋</h1>
-<h3 align="center">Teaching machines to see — one pixel, one frame, one model at a time.</h3>
+<h3 align="center">Teaching machines to see one pixel, one frame, one model at a time.</h3>
 
 <p align="center">
-Jr. Machine Learning Engineer specializing in <b>Computer Vision</b> 🎯<br>
+A Machine Learning Engineer specializing in <b>Computer Vision</b> 🎯<br>
 Dabbling in YOLO, DETR, RF-DETR, and ResNets to build models that actually look at the world.
 </p>
 
